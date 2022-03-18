@@ -1,0 +1,10 @@
+All of the others
+Stack area
+The Application tab of the project's Properties window.
+No
+When the application is low on memory
+System.Object
+All of the above
+WindowsFormsApplication1
+dialog
+File menu

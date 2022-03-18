@@ -1,0 +1,10 @@
+Which of the following can be defined as generic?
+What kind of memory where an object is allocated?
+Where can you change 'Default Namespace" of Visual Studio?
+We CANNOT use methods that have some arguments for a delegate?
+When will the garbage collector run?
+Which class is at the top of.NET class hierarchy?
+The purpose of the Visual Studio Express 2012 for Windows Desktop is to
+By default, the Visual Studio 2012 IDE assigns this name to a new Windows Forms project:
+A is a window used to communicate with users.
+This menu contains commands for opening projects, closing projects, printing project data, etc.

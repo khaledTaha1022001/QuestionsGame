@@ -1,0 +1,49 @@
+Structures
+Delegates
+Methods. Classes. Interfaces
+All of the others
+
+Managed heap
+Data area
+Stack area
+Code area
+
+The Application tab of the project's Properties window.
+The Debug tab of the project's Properties window.
+The Build tab of the project's Properties window.
+The Resources tab of the project's Properties window.
+
+No
+Yes
+Yes. but methods have to only one argument
+Empty
+
+Once every day at 13.00.
+Every 15 minutes.
+When the application is low on memory
+Empty
+
+System.Object
+System.Int32
+System.Byte
+System.String
+
+create a program.
+run a program.
+debug a program.
+All of the above
+
+NewProject1
+WindowsFormsApplication1
+NewProject
+MyProject
+
+form
+control
+dialog
+None of the above.
+
+View menu
+Edit menu
+Tools menu
+File menu
